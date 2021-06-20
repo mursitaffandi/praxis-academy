@@ -21,6 +21,8 @@ Gaya pengembangan perangkat lunak yang menganjurkan perencanaan adaptif, pengemb
 
 ## 5. Scrum
 
-
+Framework agile dalam pengembangan perangkat lunak. Scrum didesain untuk tim dengan anggota kurang dari 10 orang dan membagi pekerjaan dalam beberapa goal dan rentang waktu tertentu (biasanya 2 minggu) untuk menyelesaikan goal tersebut yang disebut *sprint*. Progres dievaluasi melalui pertemuan harian yang disebut *daily scrum*.
 
 ## 6. XP (Exteme Programming)
+
+Extreme programming merupakan metodologi pengembangan software yang berfokus pada pembuatan software yang berkualitas tinggi secara produktif dengan mengurangi perubahan requirement agar development cycle lebih singkat.
