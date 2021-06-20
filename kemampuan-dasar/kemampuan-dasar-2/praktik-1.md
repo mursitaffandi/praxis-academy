@@ -1,103 +1,4 @@
 Last login: Sun Jun 20 16:45:07 on ttys002
-Usage: java [options] <mainclass> [args...]
-           (to execute a class)
-   or  java [options] -jar <jarfile> [args...]
-           (to execute a jar file)
-   or  java [options] -m <module>[/<mainclass>] [args...]
-       java [options] --module <module>[/<mainclass>] [args...]
-           (to execute the main class in a module)
-   or  java [options] <sourcefile> [args]
-           (to execute a single source-file program)
-
- Arguments following the main class, source file, -jar <jarfile>,
- -m or --module <module>/<mainclass> are passed as the arguments to
- main class.
-
- where options include:
-
-    -cp <class search path of directories and zip/jar files>
-    -classpath <class search path of directories and zip/jar files>
-    --class-path <class search path of directories and zip/jar files>
-                  A : separated list of directories, JAR archives,
-                  and ZIP archives to search for class files.
-    -p <module path>
-    --module-path <module path>...
-                  A : separated list of directories, each directory
-                  is a directory of modules.
-    --upgrade-module-path <module path>...
-                  A : separated list of directories, each directory
-                  is a directory of modules that replace upgradeable
-                  modules in the runtime image
-    --add-modules <module name>[,<module name>...]
-                  root modules to resolve in addition to the initial module.
-                  <module name> can also be ALL-DEFAULT, ALL-SYSTEM,
-                  ALL-MODULE-PATH.
-    --list-modules
-                  list observable modules and exit
-    -d <module name>
-    --describe-module <module name>
-                  describe a module and exit
-    --dry-run     create VM and load main class but do not execute main method.
-                  The --dry-run option may be useful for validating the
-                  command-line options such as the module system configuration.
-    --validate-modules
-                  validate all modules and exit
-                  The --validate-modules option may be useful for finding
-                  conflicts and other errors with modules on the module path.
-    -D<name>=<value>
-                  set a system property
-    -verbose:[class|module|gc|jni]
-                  enable verbose output for the given subsystem
-    -version      print product version to the error stream and exit
-    --version     print product version to the output stream and exit
-    -showversion  print product version to the error stream and continue
-    --show-version
-                  print product version to the output stream and continue
-    --show-module-resolution
-                  show module resolution output during startup
-    -? -h -help
-                  print this help message to the error stream
-    --help        print this help message to the output stream
-    -X            print help on extra options to the error stream
-    --help-extra  print help on extra options to the output stream
-    -ea[:<packagename>...|:<classname>]
-    -enableassertions[:<packagename>...|:<classname>]
-                  enable assertions with specified granularity
-    -da[:<packagename>...|:<classname>]
-    -disableassertions[:<packagename>...|:<classname>]
-                  disable assertions with specified granularity
-    -esa | -enablesystemassertions
-                  enable system assertions
-    -dsa | -disablesystemassertions
-                  disable system assertions
-    -agentlib:<libname>[=<options>]
-                  load native agent library <libname>, e.g. -agentlib:jdwp
-                  see also -agentlib:jdwp=help
-    -agentpath:<pathname>[=<options>]
-                  load native agent library by full pathname
-    -javaagent:<jarpath>[=<options>]
-                  load Java programming language agent, see java.lang.instrument
-    -splash:<imagepath>
-                  show splash screen with specified image
-                  HiDPI scaled images are automatically supported and used
-                  if available. The unscaled image filename, e.g. image.ext,
-                  should always be passed as the argument to the -splash option.
-                  The most appropriate scaled image provided will be picked up
-                  automatically.
-                  See the SplashScreen API documentation for more information
-    @argument files
-                  one or more argument files containing options
-    -disable-@files
-                  prevent further argument file expansion
-    --enable-preview
-                  allow classes to depend on preview features of this release
-To specify an argument for a long option, you can use --<name>=<value> or
---<name> <value>.
-
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
 affandis-MacBook-Pro:kemampuan-dasar-2 affandimursit$ pwd
 /Users/affandimursit/Documents/praxis-academy/kemampuan-dasar/kemampuan-dasar-2
 affandis-MacBook-Pro:kemampuan-dasar-2 affandimursit$ cd ../../../
@@ -250,11 +151,7 @@ index 0000000..adb4fda
 +  
 +  <script crossorigin="anonymous" defer="defer" integrity="sha512-xvjJoISxU0GxRhz8IzuGNcKLW8ocimwz31kpata7/nJWD/QnUQfQk8rLWd+9pC0ApRmr+7xV/MfqEyMVhXRgVA==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-c6f8c9a0.js"></script>
 +  
-affandis-MacBook-Pro:rhymes affandimursit$ git remote add origin https://github.com/bryanhirsch/rhymes.git
-affandis-MacBook-Pro:rhymes affandimursit$ git remote add origin 
 affandis-MacBook-Pro:rhymes affandimursit$ git remote add origin https://github.com/mursitaffandi/rhymes.git
-fatal: remote origin already exists.
-affandis-MacBook-Pro:rhymes affandimursit$ git remote set-url origin https://github.com/mursitaffandi/rhymes.git
 affandis-MacBook-Pro:rhymes affandimursit$ git push -u origin master
 Enumerating objects: 9, done.
 Counting objects: 100% (9/9), done.
