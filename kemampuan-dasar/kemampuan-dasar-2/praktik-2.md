@@ -3,7 +3,7 @@
 ![gambar halaman kolaborasi](image/halaman-kolaborasi.jpeg)
 
 
-![gambar mencari kolaborator](image/mencari-akun.jpeg)
+![gambar mencari kolaborator](image/mecari-akun.jpeg)
 
 
 ![gambar link invitation](image/link-invitation.jpeg)
@@ -45,4 +45,4 @@ affandis-MacBook-Pro:rhymes affandimursit$
 
 
 
-![gambar hasil-kolaborasi](image/hasil-kolabirasi.jpeg)
+![gambar hasil-kolaborasi](image/hasil-kolaborasi.jpeg)
