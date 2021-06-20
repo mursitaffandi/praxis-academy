@@ -1,0 +1,211 @@
+Last login: Sun Jun 20 14:53:05 on ttys003
+affandimursit@affandis-MacBook-Pro latihan % cd ~/Documents 
+affandimursit@affandis-MacBook-Pro Documents % ls
+20201022_Evaluasi_Minor_Indeks_LQ45				Jurnal Saham.xlsx
+20201022_evaluasi_minor_indeks_lq45.zip				KETENTUAN_PRODUK_WEB_INSTAN.pdf
+20201216_issi_per17desember					PROFIL PERUSAHAAN.pdf
+20201216_issi_per17desember.zip					PT Bursa Efek Indonesia - IPO 2020.pdf
+7. Formulir Penetapan WP Non Efektif.xls			QR-URL-HIT.pdf
+Analisis Performansi HTTP Networking Library pada Android.pdf	antrian-citraweb-member.postman_collection.json
+Android-v3-Jul2020.pdf						antrian-citraweb-staff.postman_collection.json
+AndroidStudio							bionsuserguide.pdf
+Citraweb - Antrian API MEMBER.pdf				git-gui
+Citraweb - Antrian STAFF.pdf					ideaIC-2020.2.3.dmg
+Citraweb - Antrian.pdf						jii-juli-2020-berkala
+DSG APP_v2.1_apkpure.com.apk					jii-juli-2020-berkala.zip
+Daftar Istilah Bursa Saham - PT Bursa Efek Indonesia.pdf	my-wp-bitnami_key.pem
+ISSI 15 Januari.xlsx						praxis-academy
+affandimursit@affandis-MacBook-Pro Documents % open TextEdit.app
+The file /Users/affandimursit/Documents/TextEdit.app does not exist.
+affandimursit@affandis-MacBook-Pro Documents % open bionsuserguide.pdf 
+affandimursit@affandis-MacBook-Pro Documents % cp bionsuserguide.pdf ~/Downloads 
+affandimursit@affandis-MacBook-Pro Documents % mv bionsuserguide.pdf ~/Downloads
+affandimursit@affandis-MacBook-Pro Documents % touch praxis-lab 
+affandimursit@affandis-MacBook-Pro Documents % mkdir latihan-terminal
+affandimursit@affandis-MacBook-Pro Documents % rmdir latihan-terminal 
+affandimursit@affandis-MacBook-Pro Documents % mkdir latihan-terminal
+affandimursit@affandis-MacBook-Pro Documents % rm -R latihan-terminal 
+affandimursit@affandis-MacBook-Pro Documents % sudo ls -al
+Password:
+total 1414328
+drwx------+ 32 affandimursit  staff       1024 Jun 20 15:57 .
+drwxr-xr-x+ 49 affandimursit  staff       1568 Jun 20 15:53 ..
+-rw-r--r--@  1 affandimursit  staff      10244 May  5 09:26 .DS_Store
+-rw-------   1 affandimursit  staff          0 Nov  3  2020 .localized
+drwxr-xr-x@  4 affandimursit  staff        128 Jan  5 10:01 20201022_Evaluasi_Minor_Indeks_LQ45
+-rw-r--r--@  1 affandimursit  staff     470572 Jan  5 10:01 20201022_evaluasi_minor_indeks_lq45.zip
+drwx------@  4 affandimursit  staff        128 Jan  7 09:04 20201216_issi_per17desember
+-rw-r--r--@  1 affandimursit  staff    1107997 Jan  7 09:04 20201216_issi_per17desember.zip
+-rw-r--r--@  1 affandimursit  staff      53248 Feb 25 15:01 7. Formulir Penetapan WP Non Efektif.xls
+-rw-r--r--@  1 affandimursit  staff     598600 Nov 19  2020 Analisis Performansi HTTP Networking Library pada Android.pdf
+-rw-r--r--@  1 affandimursit  staff    2291109 Dec  2  2020 Android-v3-Jul2020.pdf
+drwxr-xr-x   4 affandimursit  staff        128 May  5 09:26 AndroidStudio
+-rw-------@  1 affandimursit  staff      44833 Feb 23 10:38 Citraweb - Antrian API MEMBER.pdf
+-rw-------@  1 affandimursit  staff      44809 Feb 23 10:39 Citraweb - Antrian STAFF.pdf
+-rw-------@  1 affandimursit  staff      46325 Jan 29 15:14 Citraweb - Antrian.pdf
+-rw-r--r--@  1 affandimursit  staff    7032171 Jan  5 18:06 DSG APP_v2.1_apkpure.com.apk
+-rw-------@  1 affandimursit  staff     291631 Jan 26 09:27 Daftar Istilah Bursa Saham - PT Bursa Efek Indonesia.pdf
+-rw-------@  1 affandimursit  staff    1392685 Jan 21 13:28 ISSI 15 Januari.xlsx
+-rw-------@  1 affandimursit  staff     324134 Jan 20 14:00 Jurnal Saham.xlsx
+-rw-------@  1 affandimursit  staff     882477 Feb 16 16:11 KETENTUAN_PRODUK_WEB_INSTAN.pdf
+-rw-r--r--@  1 affandimursit  staff   36636131 Nov 13  2020 PROFIL PERUSAHAAN.pdf
+-rw-------@  1 affandimursit  staff     171997 Feb 11 10:37 PT Bursa Efek Indonesia - IPO 2020.pdf
+-rw-------@  1 affandimursit  staff      23220 Nov  5  2020 QR-URL-HIT.pdf
+-rw-------@  1 affandimursit  staff       6393 Apr  5 09:39 antrian-citraweb-member.postman_collection.json
+-rw-------@  1 affandimursit  staff       2070 Apr 13 14:39 antrian-citraweb-staff.postman_collection.json
+drwxr-xr-x  20 affandimursit  staff        640 Jan  5 10:13 git-gui
+-rw-r--r--@  1 affandimursit  staff  672394040 Nov 23  2020 ideaIC-2020.2.3.dmg
+drwx------@  4 affandimursit  staff        128 Jan  5 10:36 jii-juli-2020-berkala
+-rw-r--r--@  1 affandimursit  staff     268794 Jan  5 10:36 jii-juli-2020-berkala.zip
+-rw-------@  1 affandimursit  staff       2494 Jan  4 11:09 my-wp-bitnami_key.pem
+drwxr-xr-x   3 affandimursit  staff         96 Jun 20 14:58 praxis-academy
+-rw-r--r--   1 affandimursit  staff          0 Jun 20 15:56 praxis-lab
+affandimursit@affandis-MacBook-Pro Documents % top
+affandimursit@affandis-MacBook-Pro Documents % clear
+
+affandimursit@affandis-MacBook-Pro Documents % mkdir praxis-academy-copy
+affandimursit@affandis-MacBook-Pro Documents % ditto -V praxis-academy praxis-academy-copy
+>>> Copying praxis-academy 
+copying file ./kemampuan-dasar-1/kasus/process-killer.sh ... 
+184 bytes for ./kemampuan-dasar-1/kasus/process-killer.sh
+copying file ./kemampuan-dasar-1/kasus/cari-java.sh ... 
+133 bytes for ./kemampuan-dasar-1/kasus/cari-java.sh
+affandimursit@affandis-MacBook-Pro Documents % whatis mv
+mv(1)                    - move files
+git-mv(1)                - Move or rename a file, a directory, or a symlink
+affandimursit@affandis-MacBook-Pro Documents % man ls
+affandimursit@affandis-MacBook-Pro Documents % exit
+
+[Process completed]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Last login: Sun Jun 20 15:53:47 on ttys000
+affandimursit@affandis-MacBook-Pro Documents % ls ~ | pbcopy
+affandimursit@affandis-MacBook-Pro Documents % pbpaste >> tasklist.txt
+affandimursit@affandis-MacBook-Pro Documents % cat tasklist.txt 
+pbpaste >> tasklist.txt%                                                                                                                                                             affandimursit@affandis-MacBook-Pro Documents % nano tasklist.txt
+affandimursit@affandis-MacBook-Pro Documents % mdfind -onlyin ~/Documents Android
+
+/Users/affandimursit/Documents/AndroidStudio
+/Users/affandimursit/Documents/Android-v3-Jul2020.pdf
+/Users/affandimursit/Documents/Analisis Performansi HTTP Networking Library pada Android.pdf
+affandimursit@affandis-MacBook-Pro Documents % screencapture -T 10 -P image.png
+affandimursit@affandis-MacBook-Pro Documents % ^[[200~say "Never trust a computer you can't lift."~
+zsh: bad pattern: ^[[200~say
+affandimursit@affandis-MacBook-Pro Documents % ^[[200~say "Never trust a computer you can't lift." 
+zsh: bad pattern: ^[[200~say
+affandimursit@affandis-MacBook-Pro Documents % say "Never trust a computer you can't lift."  
+affandimursit@affandis-MacBook-Pro Documents % diskutil
+Disk Utility Tool
+Utility to manage local disks and volumes
+Most commands require an administrator or root user
+
+WARNING: Most destructive operations are not prompted
+
+Usage:  diskutil [quiet] <verb> <options>, where <verb> is as follows:
+
+     list                 (List the partitions of a disk)
+     info[rmation]        (Get information on a specific disk or partition)
+     listFilesystems      (List file systems available for formatting)
+     listClients          (List all current disk management clients)
+     activity             (Continuous log of system-wide disk arbitration)
+
+     u[n]mount            (Unmount a single volume)
+     unmountDisk          (Unmount an entire disk (all volumes))
+     eject                (Eject a disk)
+     mount                (Mount a single volume)
+     mountDisk            (Mount an entire disk (all mountable volumes))
+
+     enableJournal        (Enable HFS+ journaling on a mounted HFS+ volume)
+     disableJournal       (Disable HFS+ journaling on a mounted HFS+ volume)
+     moveJournal          (Move the HFS+ journal onto another volume)
+     enableOwnership      (Exact on-disk User/Group IDs on a mounted volume)
+     disableOwnership     (Ignore on-disk User/Group IDs on a mounted volume)
+
+     rename[Volume]       (Rename a volume)
+
+     verifyVolume         (Verify the file system data structures of a volume)
+     repairVolume         (Repair the file system data structures of a volume)
+     verifyDisk           (Verify the components of a partition map of a disk)
+     repairDisk           (Repair the components of a partition map of a disk)
+     resetFusion          (Reset the components of a machine's Fusion Drive)
+
+     eraseDisk            (Erase an existing disk, removing all volumes)
+     eraseVolume          (Erase an existing volume)
+     reformat             (Erase an existing volume with same name and type)
+     eraseOptical         (Erase optical media (CD/RW, DVD/RW, etc.))
+     zeroDisk             (Erase a disk, writing zeros to the media)
+     randomDisk           (Erase a disk, writing random data to the media)
+     secureErase          (Securely erase a disk or freespace on a volume)
+
+     partitionDisk        ((re)Partition a disk, removing all volumes)
+     resizeVolume         (Resize a volume, increasing or decreasing its size)
+     splitPartition       (Split an existing partition into two or more)
+     mergePartitions      (Combine two or more existing partitions into one)
+
+     appleRAID <verb>     (Perform additional verbs related to AppleRAID)
+     coreStorage <verb>   (Perform additional verbs related to CoreStorage)
+     apfs <verb>          (Perform additional verbs related to APFS)
+
+diskutil <verb> with no options will provide help on that verb
+
+affandimursit@affandis-MacBook-Pro Documents % brew
+Example usage:
+  brew search TEXT|/REGEX/
+  brew info [FORMULA|CASK...]
+  brew install FORMULA|CASK...
+  brew update
+  brew upgrade [FORMULA|CASK...]
+  brew uninstall FORMULA|CASK...
+  brew list [FORMULA|CASK...]
+
+Troubleshooting:
+  brew config
+  brew doctor
+  brew install --verbose --debug FORMULA|CASK
+
+Contributing:
+  brew create URL [--no-fetch]
+  brew edit [FORMULA|CASK...]
+
+Further help:
+  brew commands
+  brew help [COMMAND]
+  man brew
+  https://docs.brew.sh
+affandimursit@affandis-MacBook-Pro Documents % 
+
+
+
+
+
+
+
+
+
+
